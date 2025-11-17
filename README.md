@@ -120,5 +120,9 @@ For media kits, partnerships, or bulk bookings:
 **supunprabodha0915@gmail.com**
 
 
-## 🗺 Architecture (High-Level)
+## Screenshots
+
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/cb7629da-9b7e-4592-9682-35dccb0a1b63" />
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/94f866fe-3eb6-48da-8107-35e0822ac1de" />
+
 
